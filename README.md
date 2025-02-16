@@ -4,9 +4,11 @@ Basic Hello Message API with React-TypeScript-Shadcn UI as FrontEnd and Golang a
 
 Before:
 
-![image](https://github.com/user-attachments/assets/46192909-5140-4d7d-b2b7-4f5d9ec1c581)
+![image](https://github.com/user-attachments/assets/2422ef82-6d92-486f-8a1b-d25bb3ec6384)
+
 
 
 After:
 
-![image](https://github.com/user-attachments/assets/3f8ab193-1587-4bfd-81bc-c7f8be683d87)
+![image](https://github.com/user-attachments/assets/2f7eed9b-c6e5-4cf8-8ab4-2295fd1de163)
+
